@@ -1,0 +1,9 @@
+{
+  "name": "noease",
+  "version": "0.1.0",
+  "description": "Animate a number from one to another with easing",
+  "main": "index.js",
+  "dependencies": {
+    "eases": "^1.0.6"
+  }
+}
