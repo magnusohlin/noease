@@ -2,8 +2,19 @@
   "name": "noease",
   "version": "0.1.0",
   "description": "Animate a number from one to another with easing",
+  "author": "mohayonao <mohayonao@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/magnusohlin/noease/issues"
+  },
   "main": "index.js",
   "dependencies": {
     "eases": "^1.0.6"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "mocha"
   }
 }
